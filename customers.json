@@ -1,0 +1,84 @@
+{
+    "customers": [
+        {
+            "Customer Name": "",
+            "Age": null,
+            "Email": "",
+            "Car": "",
+            "Rental Days": null,
+            "Return": null
+        },
+        {
+            "Customer Name": "",
+            "Age": null,
+            "Email": "",
+            "Car": "",
+            "Rental Days": null,
+            "Return": null
+        },
+        {
+            "Customer Name": "",
+            "Age": null,
+            "Email": "",
+            "Car": "",
+            "Rental Days": null,
+            "Return": null
+        },
+        {
+            "Customer Name": "",
+            "Age": null,
+            "Email": "",
+            "Car": "",
+            "Rental Days": null,
+            "Return": null
+        },
+        {
+            "Customer Name": "",
+            "Age": null,
+            "Email": "",
+            "Car": "",
+            "Rental Days": null,
+            "Return": null
+        },
+        {
+            "Customer Name": "",
+            "Age": null,
+            "Email": "",
+            "Car": "",
+            "Rental Days": null,
+            "Return": null
+        },
+        {
+            "Customer Name": "",
+            "Age": null,
+            "Email": "",
+            "Car": "",
+            "Rental Days": null,
+            "Return": null
+        },
+        {
+            "Customer Name": "",
+            "Age": null,
+            "Email": "",
+            "Car": "",
+            "Rental Days": null,
+            "Return": null
+        },
+        {
+            "Customer Name": "Johnyy",
+            "Age": 18,
+            "Email": "dsadas",
+            "Car": "Subaru Outback",
+            "Rental Days": 5,
+            "Return": true
+        },
+        {
+            "Customer Name": "Jony",
+            "Age": 18,
+            "Email": "5",
+            "Car": "Hyundai Elantra",
+            "Rental Days": 5,
+            "Return": true
+        }
+    ]
+}

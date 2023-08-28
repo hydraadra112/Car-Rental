@@ -1,0 +1,84 @@
+{
+    "cars": [
+        {
+            "Car Name": "Honda Accord",
+            "Serial Number": "HAC2345678",
+            "Plate Number": "ABC-1234",
+            "Price": 5000,
+            "Availability": true,
+            "Car Number": 0
+        },
+        {
+            "Car Name": "Toyota Camry",
+            "Serial Number": "TYC5678901",
+            "Plate Number": "DEF-5678",
+            "Price": 6000,
+            "Availability": true,
+            "Car Number": 1
+        },
+        {
+            "Car Name": "Ford Mustang",
+            "Serial Number": "FDM8901234",
+            "Plate Number": "GHI-9012",
+            "Price": 5500,
+            "Availability": true,
+            "Car Number": 2
+        },
+        {
+            "Car Name": "Chevrolet Impala",
+            "Serial Number": "CHP0123456",
+            "Plate Number": "JKL-2345",
+            "Price": 4500,
+            "Availability": true,
+            "Car Number": 3
+        },
+        {
+            "Car Name": "BMW 3 Series",
+            "Serial Number": "BMW4567890",
+            "Plate Number": "MNO-6789",
+            "Price": 7000,
+            "Availability": true,
+            "Car Number": 4
+        },
+        {
+            "Car Name": "Nissan Altima",
+            "Serial Number": "NIS7890123",
+            "Plate Number": "PQR-3456",
+            "Price": 5500,
+            "Availability": false,
+            "Car Number": 5
+        },
+        {
+            "Car Name": "Volkswagen Golf",
+            "Serial Number": "VWG2345678",
+            "Plate Number": "STU-9012",
+            "Price": 4000,
+            "Availability": false,
+            "Car Number": 6
+        },
+        {
+            "Car Name": "Mercedes-Benz C-Class",
+            "Serial Number": "MBE6789012",
+            "Plate Number": "VWX-4567",
+            "Price": 8000,
+            "Availability": true,
+            "Car Number": 7
+        },
+        {
+            "Car Name": "Subaru Outback",
+            "Serial Number": "SBO3456789",
+            "Plate Number": "YZA-7890",
+            "Price": 5500,
+            "Availability": true,
+            "Car Number": 8
+        },
+        {
+            "Car Name": "Hyundai Elantra",
+            "Serial Number": "HYU9012345",
+            "Plate Number": "BCD-1234",
+            "Price": 4500,
+            "Availability": true,
+            "Car Number": 9
+        }
+    ]
+}
